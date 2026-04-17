@@ -333,3 +333,12 @@ The importance of combining demand_count (popularity of a skill) with avg_salary
 - **Continuous Learning:** Stay updated on emerging technologies and trends to remain competitive.
 - **Business Acumen:** Develop strong communication and business acumen to translate data insights into actionable strategies.
 - **Tailor to Target Roles:** Carefully research the specific skills required for your desired job titles and focus on developing those skills.
+
+## 📝 Acknowledgments
+Special thanks to **Luke Barousse** for the excellent course and for providing the datasets used in these projects.
+
+---
+### Contact & Connect
+* **LinkedIn:** [Ayman Djemoui](https://www.linkedin.com/in/ayman-djemoui-249286126/)
+* **Portfolio:** [GitHub Profile](https://github.com/ayman4data)
+
